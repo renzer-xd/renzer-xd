@@ -7,4 +7,5 @@
 [WebShop](http://renzershop.com/shop/) <br>
 [Facebook](https://www.facebook.com/DevRenZer/) <br>
 [Twitter](https://twitter.com/RenZerXD) <br>
-[Youtube](https://www.youtube.com/channel/UCPGPX0JrL2ZWhPPYmJpM2fA/featured)
+[Youtube](https://www.youtube.com/channel/UCPGPX0JrL2ZWhPPYmJpM2fA/featured) <br>
+[Discord](https://discord.gg/CFDgEhY)
