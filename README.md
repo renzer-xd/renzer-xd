@@ -7,7 +7,7 @@ FiveM Developer
 I've been learning Lua for 4 years
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [RenZer Developer Shop](http://http://renzerdev.zapto.org/)
+* 🖥️  See my portfolio at [RenZer Developer Shop](https://renzershop.com/shop/)
 * ✉️  You can contact me at [bookthai1912@gmail.com](mailto:bookthai1912@gmail.com)
 
 ### Skills
